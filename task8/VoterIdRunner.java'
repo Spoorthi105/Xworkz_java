@@ -1,0 +1,8 @@
+class VoterIdRunner{
+public static void main(String []vtr){
+VoterId.VoterIdRunner("10547","S@123","QwdfeC", "20/04/1998", true);
+
+
+}
+
+}

@@ -1,0 +1,15 @@
+class RealmeNarzoPhone{
+public static void main(String booksPolicies[]){
+String brand="realme";
+String operatingSystem="Android14";
+int raminGB=4;
+String cpuModel="snapdragon";
+int memoryinGB = 64;
+
+System.out.println("brand name:"+brand);
+System.out.println("OS Used:"+operatingSystem);
+System.out.println("RAM memory installed in GB:"+raminGB);
+System.out.println("CPU Model:"+cpuModel);
+System.out.println("Memory Storage Capacity:"+memoryinGB);
+}
+}
