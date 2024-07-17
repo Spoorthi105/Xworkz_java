@@ -1,0 +1,9 @@
+class BedSheet{
+public static void main(String PCSSturdyBedSheet[]){
+System.out.println("70% Nylon Band, 30% Nickel Plated Clamps");
+System.out.println("QCWQMYL Innovative Design Sheet Straps: the Functionality of Our Bed Sheet Straps Has Been Updated, More Stable, Stronger and More Durable, Bed Sheet Clips Made of Premium Quality Elastic Nylon Straps and Heavy Duty No Slip Clips, That Will Protects the Cloth From Damage, Mattress Sheet Straps to Hold Sheets in Place All Night, Enhance Your Sleeping Routine, No More Loose Sheets in the Night, Your Must Have This Fitted Sheet Straps! Your Sheets will Stay on Your Bed at all the Time!");
+System.out.println("Easy to Install Bed Sheet Holders for Corners: Open the Metal Clips, Than Put the Bed Sheet Corner Into the No Slips Clips, Close the Clips, Press and Fix the Fabric With the Bed Sheet Clips, Our Sheet Suspenders are Very Easy to Put on and Take off, Fitted Sheet Straps are Fit for All Sizes of Sheets: Twin, Twin Xl, Full, Full Xl, Queen, King Even Up to California King Sheets.");
+System.out.println("Sheet Holders Keep Sheets Firm & Tight All the Time, No More Messy & Wrinkled Sheets!");
+System.out.println("Multifunction Bed Sheet Straps: QCWQMYL Bed Sheet Holder Perfect for All Types of Bedding, Fitted Sheet and Flat Sheet, Pet Pad, Massage Table, Powered Beds, Adjustable Base Beds, Thin Floor Mattress, Inflatable Mattress. Our Sheet Suspenders also Work Great for Ironing Board Covers, Tablecloth Covers, Sofa Cushion, Mattress Pads, Chair/Boat/Car/Motorcycle Seat Covers, Fitted Sheet Holder Makes Your Life Easier and More Enjoyable!");
+}
+}
